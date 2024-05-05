@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.class_pic{
+  height: 30em;
+  margin: 2em;
+}
+
+.class_text{
+  width: 25em;
+  position: relative;
+  left: 140px;
+  margin: 2em;
+  text-align: justify;
+}
+
+#dnd_logo{
+  height: 10em;
+}
+
+
