@@ -3,6 +3,7 @@ import Paladin from './Paladin.jsx'
 import Warlock from './Warlock.jsx'
 import Rogue from './Rogue.jsx'
 import Barbarian from './Barbarian.jsx'
+import Bard from './Bard.jsx'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Warlock/>
       <Rogue/>
       <Barbarian/>
+      <Bard/>
     </>
   )
 }
